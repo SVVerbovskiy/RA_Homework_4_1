@@ -1,9 +1,9 @@
-import './App.css';
-import ColorConverter from './components/ColorConverter'
+import Converter from './components/Converter';
+
 
 function App() {
   return (
-    <ColorConverter />
+      <Converter />
   );
 }
 
